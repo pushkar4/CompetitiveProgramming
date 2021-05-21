@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/MinimumSwaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ColoringTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SubstringsWithOdd1s" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tournament" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fudges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TheKingsMarch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InfiniteArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinSwaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FastReader" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NodesInSubtree" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
